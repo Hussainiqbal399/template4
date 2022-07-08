@@ -1,0 +1,64 @@
+body{
+    background-color: #4aa0dd;
+    padding: 0;
+    margin: 0;
+}
+.maindiv{
+    display: flex;
+}
+.main2{
+    display: flex;
+}
+.img{
+    height:110px;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 22%;
+}
+.div1{
+    width: 20%;
+    background-color:#2279be;
+    padding: 1% 0%;
+    height: 97.4vh;
+    margin-left: 30px;
+    color: white;
+}
+.nav button{
+    display: block;
+    width: 100%;
+    margin:0% 0%;
+    padding: 5%;
+    color: white;
+    background-color: #2279be;
+    border:none;
+}
+.nav button:active{
+    color: blue;
+}
+.nav button:hover{
+   background-color:white;
+   color: blue;
+}
+.last{
+    width: 70%;
+    margin-left: 60px;
+    color: white;
+}
+.img1{
+    width: 1000px;
+    height: 295px;
+}
+.main2{
+    width: 102.5%;
+}
+.phto{
+    position: relative;
+    top: 25.5%;
+}
+.icon{
+    margin: 12% 27%;
+}
+.icon i{
+    font-size: 20px;
+    margin: 1%;
+}
